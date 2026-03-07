@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rashi-Karule/LEETZ/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rashi-Karule/LEETZ/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rashi-Karule/LEETZ/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rashi-Karule/LEETZ/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
