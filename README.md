@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rashi-Karule/LEETZ/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Rashi-Karule/LEETZ/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Rashi-Karule/LEETZ/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/Rashi-Karule/LEETZ/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Rashi-Karule/LEETZ/tree/master/0217-contains-duplicate) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rashi-Karule/LEETZ/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Rashi-Karule/LEETZ/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rashi-Karule/LEETZ/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rashi-Karule/LEETZ/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
