@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Rashi-Karule/LEETZ/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
