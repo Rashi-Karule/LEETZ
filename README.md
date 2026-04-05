@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rashi-Karule/LEETZ/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Rashi-Karule/LEETZ/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Rashi-Karule/LEETZ/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rashi-Karule/LEETZ/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Array
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Rashi-Karule/LEETZ/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/Rashi-Karule/LEETZ/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Rashi-Karule/LEETZ/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Rashi-Karule/LEETZ/tree/master/0220-contains-duplicate-iii) |
 | [0283-move-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0283-move-zeroes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rashi-Karule/LEETZ/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rashi-Karule/LEETZ/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -91,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0283-move-zeroes) |
+## Sliding Window
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Rashi-Karule/LEETZ/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Rashi-Karule/LEETZ/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Rashi-Karule/LEETZ/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
