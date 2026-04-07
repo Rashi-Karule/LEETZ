@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rashi-Karule/LEETZ/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Rashi-Karule/LEETZ/tree/master/0220-contains-duplicate-iii) |
 | [0283-move-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Rashi-Karule/LEETZ/tree/master/0303-range-sum-query-immutable) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rashi-Karule/LEETZ/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rashi-Karule/LEETZ/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Rashi-Karule/LEETZ/tree/master/1480-running-sum-of-1d-array) |
@@ -116,5 +117,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Rashi-Karule/LEETZ/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Rashi-Karule/LEETZ/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Rashi-Karule/LEETZ/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
