@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rashi-Karule/LEETZ/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Rashi-Karule/LEETZ/tree/master/0242-valid-anagram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rashi-Karule/LEETZ/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0283-move-zeroes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rashi-Karule/LEETZ/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rashi-Karule/LEETZ/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rashi-Karule/LEETZ/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Greedy
 |  |
 | ------- |
