@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rashi-Karule/LEETZ/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Rashi-Karule/LEETZ/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Rashi-Karule/LEETZ/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Rashi-Karule/LEETZ/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/Rashi-Karule/LEETZ/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Rashi-Karule/LEETZ/tree/master/0217-contains-duplicate) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rashi-Karule/LEETZ/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rashi-Karule/LEETZ/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Math
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rashi-Karule/LEETZ/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Rashi-Karule/LEETZ/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Rashi-Karule/LEETZ/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
