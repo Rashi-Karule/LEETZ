@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rashi-Karule/LEETZ/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Rashi-Karule/LEETZ/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rashi-Karule/LEETZ/tree/master/0242-valid-anagram) |
 ## String
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rashi-Karule/LEETZ/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rashi-Karule/LEETZ/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rashi-Karule/LEETZ/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Rashi-Karule/LEETZ/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/Rashi-Karule/LEETZ/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Rashi-Karule/LEETZ/tree/master/0217-contains-duplicate) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rashi-Karule/LEETZ/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Rashi-Karule/LEETZ/tree/master/0200-number-of-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/Rashi-Karule/LEETZ/tree/master/1572-matrix-diagonal-sum) |
 ## Backtracking
