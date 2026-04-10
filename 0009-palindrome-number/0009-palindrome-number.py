@@ -4,16 +4,28 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        # Negative numbers or numbers ending with 0 (except 0)
-        if x < 0 or (x % 10 == 0 and x != 0):
-            return False
+        s= str(x)
 
-        reversed_half = 0
+        i = 0
+        j = len(s)-1
 
-        # Reverse half of the number
-        while x > reversed_half:
-            reversed_half = reversed_half * 10 + x % 10
-            x //= 10
+        while(i<j):
+            if s[i] != s[j]:
+                return False
+            i += 1
+            j -= 1
+        return True
+ #OR
 
-        # Check for both even and odd length numbers
-        return x == reversed_half or x == reversed_half // 10
+#if x<0:
+#    return False
+
+#original = x
+#rev = 0
+
+#while x>0:
+#    rem = x % 10
+#    rev = rev * 10 + rem
+#    x //= 10
+
+#return original == rev
