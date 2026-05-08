@@ -142,4 +142,12 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rashi-Karule/LEETZ/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rashi-Karule/LEETZ/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rashi-Karule/LEETZ/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
