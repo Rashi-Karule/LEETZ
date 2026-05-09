@@ -55,6 +55,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Rashi-Karule/LEETZ/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Rashi-Karule/LEETZ/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0172-factorial-trailing-zeroes) |
