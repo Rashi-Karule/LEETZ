@@ -47,6 +47,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rashi-Karule/LEETZ/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Rashi-Karule/LEETZ/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Rashi-Karule/LEETZ/tree/master/1572-matrix-diagonal-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rashi-Karule/LEETZ/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rashi-Karule/LEETZ/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rashi-Karule/LEETZ/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rashi-Karule/LEETZ/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
