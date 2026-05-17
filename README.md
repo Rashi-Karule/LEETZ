@@ -45,6 +45,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0283-move-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Rashi-Karule/LEETZ/tree/master/0303-range-sum-query-immutable) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rashi-Karule/LEETZ/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rashi-Karule/LEETZ/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rashi-Karule/LEETZ/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Rashi-Karule/LEETZ/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Rashi-Karule/LEETZ/tree/master/1572-matrix-diagonal-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0033-search-in-rotated-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rashi-Karule/LEETZ/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rashi-Karule/LEETZ/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
