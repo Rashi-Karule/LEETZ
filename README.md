@@ -33,6 +33,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0001-two-sum](https://github.com/Rashi-Karule/LEETZ/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Rashi-Karule/LEETZ/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Rashi-Karule/LEETZ/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Rashi-Karule/LEETZ/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rashi-Karule/LEETZ/tree/master/0054-spiral-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Rashi-Karule/LEETZ/tree/master/0035-search-insert-position) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rashi-Karule/LEETZ/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rashi-Karule/LEETZ/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
