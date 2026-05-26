@@ -18,6 +18,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0020-valid-parentheses](https://github.com/Rashi-Karule/LEETZ/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Rashi-Karule/LEETZ/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rashi-Karule/LEETZ/tree/master/0242-valid-anagram) |
+| [1768-merge-strings-alternately](https://github.com/Rashi-Karule/LEETZ/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rashi-Karule/LEETZ/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rashi-Karule/LEETZ/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/Rashi-Karule/LEETZ/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
