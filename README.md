@@ -18,6 +18,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0020-valid-parentheses](https://github.com/Rashi-Karule/LEETZ/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Rashi-Karule/LEETZ/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rashi-Karule/LEETZ/tree/master/0242-valid-anagram) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Rashi-Karule/LEETZ/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Rashi-Karule/LEETZ/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rashi-Karule/LEETZ/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
@@ -69,6 +70,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0070-climbing-stairs](https://github.com/Rashi-Karule/LEETZ/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Rashi-Karule/LEETZ/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Rashi-Karule/LEETZ/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rashi-Karule/LEETZ/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rashi-Karule/LEETZ/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
