@@ -24,6 +24,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Rashi-Karule/LEETZ/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Rashi-Karule/LEETZ/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Rashi-Karule/LEETZ/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Rashi-Karule/LEETZ/tree/master/0242-valid-anagram) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0054-spiral-matrix](https://github.com/Rashi-Karule/LEETZ/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rashi-Karule/LEETZ/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Rashi-Karule/LEETZ/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rashi-Karule/LEETZ/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/Rashi-Karule/LEETZ/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Rashi-Karule/LEETZ/tree/master/0217-contains-duplicate) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Rashi-Karule/LEETZ/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Rashi-Karule/LEETZ/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/Rashi-Karule/LEETZ/tree/master/1768-merge-strings-alternately) |
