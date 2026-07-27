@@ -76,6 +76,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [1137-n-th-tribonacci-number](https://github.com/Rashi-Karule/LEETZ/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rashi-Karule/LEETZ/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rashi-Karule/LEETZ/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rashi-Karule/LEETZ/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rashi-Karule/LEETZ/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rashi-Karule/LEETZ/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
