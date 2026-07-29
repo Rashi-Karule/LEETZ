@@ -38,6 +38,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | ------- |
 | [0001-two-sum](https://github.com/Rashi-Karule/LEETZ/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Rashi-Karule/LEETZ/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rashi-Karule/LEETZ/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Rashi-Karule/LEETZ/tree/master/0041-first-missing-positive) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Rashi-Karule/LEETZ/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Rashi-Karule/LEETZ/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Rashi-Karule/LEETZ/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0283-move-zeroes) |
