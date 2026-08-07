@@ -17,6 +17,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Rashi-Karule/LEETZ/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rashi-Karule/LEETZ/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Rashi-Karule/LEETZ/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rashi-Karule/LEETZ/tree/master/0242-valid-anagram) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rashi-Karule/LEETZ/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Rashi-Karule/LEETZ/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rashi-Karule/LEETZ/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0033-search-in-rotated-sorted-array) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rashi-Karule/LEETZ/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0509-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rashi-Karule/LEETZ/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
