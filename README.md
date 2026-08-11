@@ -49,6 +49,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0053-maximum-subarray](https://github.com/Rashi-Karule/LEETZ/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rashi-Karule/LEETZ/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rashi-Karule/LEETZ/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Rashi-Karule/LEETZ/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rashi-Karule/LEETZ/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rashi-Karule/LEETZ/tree/master/0078-subsets) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | ------- |
 | [0007-reverse-integer](https://github.com/Rashi-Karule/LEETZ/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Rashi-Karule/LEETZ/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rashi-Karule/LEETZ/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0509-fibonacci-number) |
