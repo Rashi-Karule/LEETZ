@@ -12,6 +12,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0217-contains-duplicate](https://github.com/Rashi-Karule/LEETZ/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rashi-Karule/LEETZ/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Rashi-Karule/LEETZ/tree/master/0645-set-mismatch) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Rashi-Karule/LEETZ/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Rashi-Karule/LEETZ/tree/master/2540-minimum-common-value) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rashi-Karule/LEETZ/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String
@@ -67,6 +68,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rashi-Karule/LEETZ/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rashi-Karule/LEETZ/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rashi-Karule/LEETZ/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Rashi-Karule/LEETZ/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Rashi-Karule/LEETZ/tree/master/2540-minimum-common-value) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rashi-Karule/LEETZ/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Greedy
