@@ -11,6 +11,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0073-set-matrix-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Rashi-Karule/LEETZ/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rashi-Karule/LEETZ/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Rashi-Karule/LEETZ/tree/master/0645-set-mismatch) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rashi-Karule/LEETZ/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Rashi-Karule/LEETZ/tree/master/2540-minimum-common-value) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0217-contains-duplicate](https://github.com/Rashi-Karule/LEETZ/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Rashi-Karule/LEETZ/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Rashi-Karule/LEETZ/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rashi-Karule/LEETZ/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/Rashi-Karule/LEETZ/tree/master/0645-set-mismatch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rashi-Karule/LEETZ/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0200-number-of-islands](https://github.com/Rashi-Karule/LEETZ/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Rashi-Karule/LEETZ/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Rashi-Karule/LEETZ/tree/master/0220-contains-duplicate-iii) |
+| [0268-missing-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Rashi-Karule/LEETZ/tree/master/0303-range-sum-query-immutable) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rashi-Karule/LEETZ/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0066-plus-one](https://github.com/Rashi-Karule/LEETZ/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rashi-Karule/LEETZ/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0172-factorial-trailing-zeroes) |
+| [0268-missing-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Rashi-Karule/LEETZ/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Rashi-Karule/LEETZ/tree/master/1137-n-th-tribonacci-number) |
@@ -137,12 +141,14 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rashi-Karule/LEETZ/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Rashi-Karule/LEETZ/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rashi-Karule/LEETZ/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0268-missing-number) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rashi-Karule/LEETZ/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rashi-Karule/LEETZ/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2540-minimum-common-value](https://github.com/Rashi-Karule/LEETZ/tree/master/2540-minimum-common-value) |
