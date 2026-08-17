@@ -64,6 +64,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0303-range-sum-query-immutable](https://github.com/Rashi-Karule/LEETZ/tree/master/0303-range-sum-query-immutable) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rashi-Karule/LEETZ/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/Rashi-Karule/LEETZ/tree/master/0645-set-mismatch) |
+| [0989-add-to-array-form-of-integer](https://github.com/Rashi-Karule/LEETZ/tree/master/0989-add-to-array-form-of-integer) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rashi-Karule/LEETZ/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rashi-Karule/LEETZ/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Rashi-Karule/LEETZ/tree/master/1480-running-sum-of-1d-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0172-factorial-trailing-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/Rashi-Karule/LEETZ/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Rashi-Karule/LEETZ/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Rashi-Karule/LEETZ/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rashi-Karule/LEETZ/tree/master/1295-find-numbers-with-even-number-of-digits) |
