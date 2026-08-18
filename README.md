@@ -73,6 +73,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [1572-matrix-diagonal-sum](https://github.com/Rashi-Karule/LEETZ/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rashi-Karule/LEETZ/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rashi-Karule/LEETZ/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1920-build-array-from-permutation](https://github.com/Rashi-Karule/LEETZ/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rashi-Karule/LEETZ/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rashi-Karule/LEETZ/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Rashi-Karule/LEETZ/tree/master/2540-minimum-common-value) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rashi-Karule/LEETZ/tree/master/0054-spiral-matrix) |
+| [1920-build-array-from-permutation](https://github.com/Rashi-Karule/LEETZ/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
