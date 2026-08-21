@@ -71,6 +71,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rashi-Karule/LEETZ/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rashi-Karule/LEETZ/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Rashi-Karule/LEETZ/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/Rashi-Karule/LEETZ/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Rashi-Karule/LEETZ/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rashi-Karule/LEETZ/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rashi-Karule/LEETZ/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0035-search-insert-position](https://github.com/Rashi-Karule/LEETZ/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0268-missing-number) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rashi-Karule/LEETZ/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/Rashi-Karule/LEETZ/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rashi-Karule/LEETZ/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2540-minimum-common-value](https://github.com/Rashi-Karule/LEETZ/tree/master/2540-minimum-common-value) |
 ## Stack
