@@ -248,4 +248,8 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rashi-Karule/LEETZ/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Rashi-Karule/LEETZ/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
