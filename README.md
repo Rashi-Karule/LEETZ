@@ -10,6 +10,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0041-first-missing-positive](https://github.com/Rashi-Karule/LEETZ/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Rashi-Karule/LEETZ/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Rashi-Karule/LEETZ/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Rashi-Karule/LEETZ/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Rashi-Karule/LEETZ/tree/master/0645-set-mismatch) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0088-merge-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/Rashi-Karule/LEETZ/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Rashi-Karule/LEETZ/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Rashi-Karule/LEETZ/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Rashi-Karule/LEETZ/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0283-move-zeroes) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Rashi-Karule/LEETZ/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Rashi-Karule/LEETZ/tree/master/0220-contains-duplicate-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rashi-Karule/LEETZ/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bucket Sort
