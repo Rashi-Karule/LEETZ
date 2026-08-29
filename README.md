@@ -45,6 +45,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rashi-Karule/LEETZ/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Rashi-Karule/LEETZ/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Rashi-Karule/LEETZ/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rashi-Karule/LEETZ/tree/master/0027-remove-element) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rashi-Karule/LEETZ/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Rashi-Karule/LEETZ/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rashi-Karule/LEETZ/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rashi-Karule/LEETZ/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rashi-Karule/LEETZ/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rashi-Karule/LEETZ/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rashi-Karule/LEETZ/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rashi-Karule/LEETZ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
