@@ -80,6 +80,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rashi-Karule/LEETZ/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/Rashi-Karule/LEETZ/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rashi-Karule/LEETZ/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rashi-Karule/LEETZ/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rashi-Karule/LEETZ/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Rashi-Karule/LEETZ/tree/master/2540-minimum-common-value) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rashi-Karule/LEETZ/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0283-move-zeroes](https://github.com/Rashi-Karule/LEETZ/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rashi-Karule/LEETZ/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/Rashi-Karule/LEETZ/tree/master/1768-merge-strings-alternately) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rashi-Karule/LEETZ/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/Rashi-Karule/LEETZ/tree/master/2540-minimum-common-value) |
 ## Sliding Window
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rashi-Karule/LEETZ/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Rashi-Karule/LEETZ/tree/master/1920-build-array-from-permutation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rashi-Karule/LEETZ/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |
