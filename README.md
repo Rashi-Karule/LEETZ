@@ -20,6 +20,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Rashi-Karule/LEETZ/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Rashi-Karule/LEETZ/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rashi-Karule/LEETZ/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rashi-Karule/LEETZ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Rashi-Karule/LEETZ/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Rashi-Karule/LEETZ/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rashi-Karule/LEETZ/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Rashi-Karule/LEETZ/tree/master/0070-climbing-stairs) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Rashi-Karule/LEETZ/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Rashi-Karule/LEETZ/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/Rashi-Karule/LEETZ/tree/master/0509-fibonacci-number) |
 ## Trie
