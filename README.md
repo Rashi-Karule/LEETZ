@@ -112,6 +112,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rashi-Karule/LEETZ/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rashi-Karule/LEETZ/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rashi-Karule/LEETZ/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/Rashi-Karule/LEETZ/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
