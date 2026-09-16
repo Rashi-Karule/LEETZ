@@ -29,6 +29,7 @@ A collection of LeetCode questions I'll be solving - Created using [LeetHub v2](
 | [0125-valid-palindrome](https://github.com/Rashi-Karule/LEETZ/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rashi-Karule/LEETZ/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rashi-Karule/LEETZ/tree/master/0344-reverse-string) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Rashi-Karule/LEETZ/tree/master/0521-longest-uncommon-subsequence-i) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Rashi-Karule/LEETZ/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Rashi-Karule/LEETZ/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rashi-Karule/LEETZ/tree/master/2114-maximum-number-of-words-found-in-sentences) |
